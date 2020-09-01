@@ -1,2 +1,3 @@
-# mydsmlway
-Структурирование полезной информации по Data Science и Machine Learning
+# My DS/ML way
+
+* # *Статистика*
