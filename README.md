@@ -80,7 +80,7 @@
 
 	В общем случае используется формула Минковского:
 	
-	<center>![equation](https://latex.codecogs.com/gif.latex?\rho(x,&space;y)&space;=&space;(\sum^n_{i=1}&space;\left|x_i&space;-&space;y_i\right|^p)^{1/p})</center>
+	<img src = "https://render.githubusercontent.com/render/math?math=\rho(x,%20y)%20=%20(\sum^n_{i=1}%20\left|x_i%20-%20y_i\right|^p)^{1/p}">
 
 	Метод KNN часто используется как первый в пайплайне обучения модели. На основе модели KNN создаётся признак, который выдаёт какие-то вероятности независимой переменной и этот признак уже далее используется в других моделях (не KNN)
 
