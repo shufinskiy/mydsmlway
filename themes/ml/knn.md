@@ -28,8 +28,8 @@ KNN не работает на больших объёмах данных из-�
 
 #### Scikit-learn
 	Классификация:
-		- [KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier) - обучение на основе числа соседей, указанного пользователем
-		- [RadiusNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html#sklearn.neighbors.RadiusNeighborsClassifier) - обучение на основе числа соседй в пределах радиуса, указанного пользователем
+		-[KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier) - обучение на основе числа соседей, указанного пользователем
+		-[RadiusNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html#sklearn.neighbors.RadiusNeighborsClassifier) - обучение на основе числа соседй в пределах радиуса, указанного пользователем
 
 
 ```r
