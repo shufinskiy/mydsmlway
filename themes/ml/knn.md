@@ -27,9 +27,9 @@ KNN не работает на больших объёмах данных из-�
   - Проклятие размерности. При большом кол-ве признаков мы приходим к тому, что точки получаются примерно равноудаленны от центра и KNN не может правильно выбрать нужные нам точки.
 
 #### Scikit-learn
-	Классификация:
-		-[KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier) - обучение на основе числа соседей, указанного пользователем
-		-[RadiusNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html#sklearn.neighbors.RadiusNeighborsClassifier) - обучение на основе числа соседй в пределах радиуса, указанного пользователем
+Классификация:
+  - [KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier) - обучение на основе числа соседей, указанного пользователем
+  - [RadiusNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html#sklearn.neighbors.RadiusNeighborsClassifier) - обучение на основе числа соседй в пределах радиуса, указанного пользователем
 
 
 ```r
